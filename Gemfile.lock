@@ -113,7 +113,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
-  pg (= 0.15.1)
+  pg
   protected_attributes
   rails (= 4.0.0)
   sass-rails (~> 4.0.0)
